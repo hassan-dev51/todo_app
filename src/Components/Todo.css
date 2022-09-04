@@ -18,26 +18,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.search {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid #532a88;
-  border-radius: 5px;
-  padding: 0rem 1rem;
-}
-.search input {
-  outline: none;
-  font-size: 1rem;
-  color: #cf1512;
-  font-weight: 700;
-  letter-spacing: 1px;
-  border: none;
-  background: none;
-}
-.search svg {
-  font-size: 2rem;
-}
+
 .add_todo {
   display: flex;
   justify-content: center;
