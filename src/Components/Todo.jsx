@@ -40,7 +40,7 @@ const Todo = () => {
           return elem;
         })
       );
-      setToogle(false);
+      setToogle(true);
       setAddTodo(" ");
       setEditItems(null);
     } else {
