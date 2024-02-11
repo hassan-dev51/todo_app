@@ -77,7 +77,7 @@ const Todo = () => {
     let newEditItem = list.find((currElem) => {
       return currElem.id === para;
     });
-    setToogle(false);
+    setToogle(true);
     setAddTodo(newEditItem.name);
     setEditItems(para);
   };
